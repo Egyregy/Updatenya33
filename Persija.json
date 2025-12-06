@@ -6,12 +6,12 @@
   },
   "credentials": [
     {
-      "username": "admin",
-      "password": "admin",
+      "username": "admin1",
+      "password": "kiw",
       "build_id": "1.0",  
-      "expire_date": "2026-03-01",
+      "expire_date": "2025-12-09",
       "authorized_device_ids": [     
-        "88e99b0c741499cc",         
+        "d33b4f824d911054",         
         "4b85f2a10d9e8c44",   
         "3ba4a93f018dc799",   
         "UNKNOWN"                    
